@@ -47,28 +47,15 @@
   </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
+
 
   
 </p>
 <h2 align="center">The Stats</h2>
 <p align="center">
-  <a href="https://github.com/TheMadMartina">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMadMartina&theme=radical" alt="Martina's GitHub Contribution"/>
+  <a href="https://github.com/MadCryptic ">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadCryptic&theme=radical" alt='Cryptic's GitHub Contribution"/>
   </a>
 </div>
 
 <a> 
-    <a href="https://github.com/harun181"><img alt="Martina's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TheMadMartina&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/TheMadMartina"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TheMadMartina&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-![Martina's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMadMartina&custom_title=Martina's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br/>
-
-<br/>
